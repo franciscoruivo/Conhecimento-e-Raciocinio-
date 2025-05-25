@@ -1,0 +1,10 @@
+MATRIZ DE CONFUSÃO - Rede 2 (algoritmo trainlm) - Conjunto train
+
+Classe Real  circle       kite         parallelogram square       trapezoid    triangle     
+-----------  ------------ ------------ ------------ ------------ ------------ ------------ 
+circle           96.0%      0.0%      0.0%      4.0%      0.0%      0.0% 
+kite              2.0%     98.0%      0.0%      0.0%      0.0%      0.0% 
+parallelogram      0.0%      0.0%     86.0%      2.0%      4.0%      8.0% 
+square            2.0%      0.0%      2.0%     96.0%      0.0%      0.0% 
+trapezoid         8.0%      0.0%      0.0%      2.0%     90.0%      0.0% 
+triangle          2.0%      2.0%      6.0%      0.0%      0.0%     90.0% 

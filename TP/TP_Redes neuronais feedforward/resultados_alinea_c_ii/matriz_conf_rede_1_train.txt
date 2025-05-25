@@ -1,0 +1,10 @@
+MATRIZ DE CONFUSÃO - Rede 1 (divisão 80/10/10) - Conjunto train
+
+Classe Real  circle       kite         parallelogram square       trapezoid    triangle     
+-----------  ------------ ------------ ------------ ------------ ------------ ------------ 
+circle             74.0%        2.0%        0.0%        6.0%       18.0%        0.0% 
+kite               10.0%       72.0%        2.0%        8.0%        8.0%        0.0% 
+parallelogram        4.0%        8.0%       56.0%        6.0%       16.0%       10.0% 
+square             18.0%        0.0%        2.0%       50.0%       22.0%        8.0% 
+trapezoid          20.0%        6.0%        8.0%        8.0%       54.0%        4.0% 
+triangle           22.0%       28.0%        4.0%        8.0%       10.0%       28.0% 

@@ -1,0 +1,10 @@
+MATRIZ DE CONFUSÃO - Rede 3 (topologia [10 10]) - Conjunto train
+
+Classe Real  circle       kite         parallelogram square       trapezoid    triangle     
+-----------  ------------ ------------ ------------ ------------ ------------ ------------ 
+circle           88.0%      0.0%      0.0%      6.0%      6.0%      0.0% 
+kite              0.0%    100.0%      0.0%      0.0%      0.0%      0.0% 
+parallelogram      0.0%      2.0%     94.0%      4.0%      0.0%      0.0% 
+square            0.0%      0.0%      0.0%    100.0%      0.0%      0.0% 
+trapezoid         2.0%      0.0%      2.0%      0.0%     94.0%      2.0% 
+triangle          4.0%      4.0%      4.0%      0.0%      2.0%     86.0% 

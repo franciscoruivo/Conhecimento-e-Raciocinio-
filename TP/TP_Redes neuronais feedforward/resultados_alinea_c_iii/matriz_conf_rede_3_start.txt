@@ -1,0 +1,10 @@
+MATRIZ DE CONFUSÃO - Rede 3 (topologia [10 10]) - Conjunto start
+
+Classe Real  circle       kite         parallelogram square       trapezoid    triangle     
+-----------  ------------ ------------ ------------ ------------ ------------ ------------ 
+circle          100.0%      0.0%      0.0%      0.0%      0.0%      0.0% 
+kite              0.0%    100.0%      0.0%      0.0%      0.0%      0.0% 
+parallelogram      0.0%      0.0%    100.0%      0.0%      0.0%      0.0% 
+square            0.0%      0.0%      0.0%    100.0%      0.0%      0.0% 
+trapezoid         0.0%      0.0%      0.0%      0.0%    100.0%      0.0% 
+triangle          0.0%      0.0%      0.0%      0.0%     20.0%     80.0% 

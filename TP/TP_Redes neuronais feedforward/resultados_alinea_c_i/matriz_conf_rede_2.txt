@@ -1,0 +1,10 @@
+MATRIZ DE CONFUSÃO - REDE 2
+
+Classe Real  circle       kite         parallelogram square       trapezoid    triangle     
+-----------  ------------ ------------ ------------ ------------ ------------ ------------ 
+circle             70.0%        0.0%        0.0%        0.0%       30.0%        0.0% 
+kite               10.0%       80.0%        0.0%       10.0%        0.0%        0.0% 
+parallelogram        0.0%        0.0%       80.0%       20.0%        0.0%        0.0% 
+square             10.0%       10.0%        0.0%       80.0%        0.0%        0.0% 
+trapezoid          50.0%        0.0%       20.0%        0.0%       30.0%        0.0% 
+triangle            0.0%       10.0%       30.0%       20.0%        0.0%       40.0% 
