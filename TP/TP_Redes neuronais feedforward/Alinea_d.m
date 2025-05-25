@@ -89,5 +89,4 @@ for i = 1:length(chaves)
     end
 end
 
-% Salvar resultados (opcional)
 %save('resultados_tarefa_d.mat', 'resultados');
